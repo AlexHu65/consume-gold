@@ -1,0 +1,548 @@
+
+@media only screen and (max-width: 1024px){
+
+}
+
+@media only screen and (max-width: 768px){
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  .nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+@media only screen and (max-width: 479px){
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  .nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+@media only screen and (max-width: 425px){
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  .nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+
+}
+
+@media only screen and (max-width: 375px){
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  .nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+@media only screen and (max-width: 320px){
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Portrait */
+@media only screen and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+
+}
+/* ----------- iPhone X ----------- */
+/* Portrait and Landscape */
+@media only (-webkit-min-device-pixel-ratio: 3) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+  #cssmenu ul{ float: none;}
+  #header{position: inherit !important; width: auto !important;}
+  nav .brand-logo{left: 46% !important; width: 40% !important;}
+  #wrapperPanel{border-radius: 0px !important; display:flex !important; padding:25px !important;}
+  .sidebar{padding: 0px !important}
+  .panel-content{padding: 0px !important}
+  .panel-content .content{border: none !important; padding: 0px !important}
+  #btnGaleria{width: 100% !important; margin: 0px !important;}
+  #btnSubmit{width: 100% !important;margin: 0px !important;}
+  .contenido {width: 100% !important;height: auto;margin: auto;overflow: hidden;text-align: center;}
+  .cta-join{width: 100% !important;padding:0px !important;}
+  .cta-join .icon{display: none !important;}
+  .cta-join a{letter-spacing: 2px !important;}
+  .desk{display: none !important}
+  .dekMov{display: block !important;background: url('../images/background.png') !important;background-attachment: fixed !important;background-size: cover !important;}
+  .mov{display: block !important;}
+  .mainBanner{padding:0px !important;} .mainBanner .logo-main{display: none !important;}
+  #header{background: rgba(207, 0, 15, 0.8) !important;}
+  .form-wrapper{width: 100% !important;}
+  #interior, #loginForm{padding-top:0px !important;}
+  #interior{top:25px !important;}
+  #formulario-registro{padding-top: 0px !important;}
+  #social_side_links{display:none !important;}
+  .owl-empresas .item{overflow:hidden; height:auto !important}
+}

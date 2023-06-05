@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://consumeguanajuato.com/</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/catalogo</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/noticias</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/trueque</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/register</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/login</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/negocio/57/zapater%C3%ADa-c</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/negocio/59/crepas-pawwi</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/negocio/58/gps-secure</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/aviso-de-privacidad</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://consumeguanajuato.com/password/reset</loc>
+  <lastmod>2020-05-25T16:31:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

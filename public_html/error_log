@@ -1,0 +1,36 @@
+[23-May-2020 12:40:10] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:40:10] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:42:29] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:42:29] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:43:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:43:59] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:08] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:09] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:09] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:12] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/consumeg/public_html/index.php on line 52
+[23-May-2020 12:44:12] PHP Parse error:  syntax error, unexpected T_STRING in /home2/consumeg/public_html/index.php on line 52
+[23-Jun-2020 16:51:11 UTC] PHP Parse error:  syntax error, unexpected ''/laravel/framework/src/Illumi' (T_ENCAPSED_AND_WHITESPACE) in /home2/consumeg/laravel/vendor/composer/autoload_static.php on line 2457
+[23-Jun-2020 16:51:15 UTC] PHP Parse error:  syntax error, unexpected ''/.' (T_ENCAPSED_AND_WHITESPACE) in /home2/consumeg/laravel/vendor/composer/autoload_static.php on line 2931
+[23-Jun-2020 16:51:19 UTC] PHP Parse error:  syntax error, unexpected ''JsonSchema\\Uri\\Retrievers\\' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home2/consumeg/laravel/vendor/composer/autoload_static.php on line 3268
+[23-Jun-2020 16:51:23 UTC] PHP Parse error:  syntax error, unexpected ''/league/common' (T_ENCAPSED_AND_WHITESPACE) in /home2/consumeg/laravel/vendor/composer/autoload_static.php on line 3375
+[23-Jun-2020 17:00:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Debug\Exception\FatalErrorException' not found in /home2/consumeg/laravel/vendor/symfony/debug/Exception/FatalThrowableError.php:23
+Stack trace:
+#0 /home2/consumeg/laravel/vendor/composer/ClassLoader.php(444): include()
+#1 /home2/consumeg/laravel/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/consumeg...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#3 /home2/consumeg/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(86): spl_autoload_call('Symfony\\Compone...')
+#4 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Error))
+#5 {main}
+  thrown in /home2/consumeg/laravel/vendor/symfony/debug/Exception/FatalThrowableError.php on line 23
+[23-Jun-2020 17:00:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Debug\Exception\FatalErrorException' not found in /home2/consumeg/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php:147
+Stack trace:
+#0 /home2/consumeg/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalExceptionFromError(Array, 0)
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#2 {main}
+  thrown in /home2/consumeg/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[23-Jun-2020 19:22:17 UTC] PHP Warning:  require(/home2/consumeg/laravel/vendor/composer/../phpseclib/phpseclib/phpseclib/bootstrap.php): failed to open stream: No such file or directory in /home2/consumeg/laravel/vendor/composer/autoload_real.php on line 66
+[23-Jun-2020 19:22:17 UTC] PHP Warning:  require(/home2/consumeg/laravel/vendor/composer/../phpseclib/phpseclib/phpseclib/bootstrap.php): failed to open stream: No such file or directory in /home2/consumeg/laravel/vendor/composer/autoload_real.php on line 66
+[23-Jun-2020 19:22:17 UTC] PHP Fatal error:  require(): Failed opening required '/home2/consumeg/laravel/vendor/composer/../phpseclib/phpseclib/phpseclib/bootstrap.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/consumeg/laravel/vendor/composer/autoload_real.php on line 66
